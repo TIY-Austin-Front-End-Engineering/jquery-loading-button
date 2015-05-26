@@ -32,7 +32,7 @@ After completing this assignment, you be able to effectively use
 
 * A repo containing at least:
   * `index.html`
-  * `scripts/controllers.js`
+  * `scripts/main.js`
   * `bower.json`
 
 ### Requirements
@@ -41,7 +41,7 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-Replicate the following behavior using angular.
+Replicate the following behavior using jQuery.
 ![Example](/output.gif)
             
 
@@ -51,5 +51,3 @@ Replicate the following behavior using angular.
 Hints: create two variables on your controller scope called $scope.buttonText and $scope.isLoading. Use ng-bind to bind your buttonText to the button and ng-disabled to controll whether or not the button is disabled. You can use $timeout to reset the button back to its regular state after 4 seconds.
 
 ## Additional Resources
-
-* You can use [angular-template](https://github.com/TIY-Austin-Front-End-Engineering/angular-template) to get started.
