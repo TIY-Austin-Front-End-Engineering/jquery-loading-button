@@ -48,6 +48,4 @@ Replicate the following behavior using jQuery.
 
 ## Notes
 
-Hints: create two variables on your controller scope called $scope.buttonText and $scope.isLoading. Use ng-bind to bind your buttonText to the button and ng-disabled to controll whether or not the button is disabled. You can use $timeout to reset the button back to its regular state after 4 seconds.
-
 ## Additional Resources
