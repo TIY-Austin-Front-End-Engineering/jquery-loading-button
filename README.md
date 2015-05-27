@@ -19,21 +19,18 @@ After completing this assignment, you should…
 
 After completing this assignment, you be able to effectively use
 
-* $.val()
 * $.html()
-* $.on()
-* $.css()
-* $.show()
-* $.hide()
+* $.prop()
+* setTimeout
 
 ## Details
 
 ### Deliverables
 
 * A repo containing at least:
-  * `index.html`
-  * `scripts/main.js`
-  * `bower.json`
+  * `dist/index.html`
+  * `dist/scripts/main.js`
+  * `dist/bower.json`
 
 ### Requirements
 
