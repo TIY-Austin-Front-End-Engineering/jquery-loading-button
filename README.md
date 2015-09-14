@@ -42,7 +42,7 @@ Replicate the following behavior using jQuery.
 
 ## Hard Mode
 Update your loading button to include a progress bar.
-
+![Example](/hard-mode.gif)
 
 ## Notes
 
