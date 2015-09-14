@@ -1,7 +1,7 @@
-# Build a loading button with Angular
+# Build a loading button with jQuery
 
 ## Description
-Using an angular controller and directive, build a button that becomes disabled when you click on it and changes its text to &quot;Loading...&quot; and then returns to its normal state after 4 seconds
+Using an jQuery, build a button that becomes disabled when you click on it and changes its text to &quot;Loading...&quot; and then returns to its normal state after 4 seconds
 
 
 ## Objectives
@@ -10,9 +10,8 @@ Using an angular controller and directive, build a button that becomes disabled 
 
 After completing this assignment, you should…
 
-* Understand how angular $scope works within controllers and views.
-* Know how to use directives and binding to react to user interactions.
-* Understand the basics of Angular dependency injection.
+* Understand how to select HTML elements using jQuery
+* Understand what a callback function is
 
 
 ### Performance Objectives
@@ -28,19 +27,21 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/index.html`
-  * `dist/scripts/main.js`
-  * `dist/bower.json`
+  * `index.html`
+  * `scripts/main.js`
+  * `package.json`
 
 ### Requirements
 
-* No JSHint warnings or errors
+* No ESLint warnings or errors
 
 
 ## Normal Mode
 Replicate the following behavior using jQuery.
 ![Example](/output.gif)
-            
+
+## Hard Mode
+Update your loading button to include a progress bar.
 
 
 ## Notes
